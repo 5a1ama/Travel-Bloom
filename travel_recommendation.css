@@ -50,6 +50,35 @@
         top: 50%;
         left: 40cm;
         transform: translate(-50%, -50%);
-        border-radius: 50%;
-        border: 3px solid red;
+        border-radius: 12px;
+        border: 10px solid white;
+        background-color: white;
+
+    }
+
+    #search_icon {
+        width: 25px;
+        height: 20px;
+      }
+
+    #intro_div h1 {
+        position:relative;
+        top:100px;
+        color: mintcream;
+        font-size: 70px;
+        left: 100px;
+    }
+
+    #intro_div h4 {
+        position:relative;
+        top: 100px;
+        color: mintcream;
+        left: 100px;
+    }
+
+    #result {
+        position:relative;
+        top: 100px;
+        left: 500px;
+        color: mintcream;
     }
